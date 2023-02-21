@@ -6,15 +6,15 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: mjkop
+      app: zxqc
   template:
     metadata:
       labels:
-        app: mjkop
+        app: zxqc
     spec:
       containers:
-      - image: okteto.dev/mjkop:latest
-        name: mjkop
+      - image: okteto.dev/zxqc:latest
+        name: zxqc
         ports:
         - containerPort: 8080
         env:
