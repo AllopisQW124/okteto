@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: zxqs
+  name: zxqc
   annotations:
     dev.okteto.com/auto-ingress: "true"
 spec:
