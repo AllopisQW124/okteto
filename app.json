@@ -5,12 +5,12 @@
   "env": {
     "Site": {
       "description": "自定义伪装页面，例如：https://github.com/happyevero/Html/raw/main/S-html.zip ",
-      "value": "https://github.com/happyevero/Html/raw/main/S-html.zip"
+      "value": "https://github.com/happyevero/Html/raw/main/BrainStorm-html.zip"
     },
 
     "Vless_UUID": {
       "description": "Vless uuid（http://www.uuid.online/在线生成）",
-      "value": "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+      "value": "f0cd3ad2-e2ba-440a-898e-028e8f4627e5"
     },
 
     "Vless_Path": {
@@ -19,7 +19,7 @@
     },
     "Vmess_UUID": {
       "description": "Vmess uuid（http://www.uuid.online/在线生成）",
-      "value": "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+      "value": "f0cd3ad2-e2ba-440a-898e-028e8f4627e5"
     },
 
     "Vmess_Path": {
